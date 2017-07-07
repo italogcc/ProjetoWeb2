@@ -1,0 +1,53 @@
+/* Ajustar CSS do index */
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    font-weight: normal;
+}
+
+a {
+    text-decoration:none;
+}
+
+img {
+    width: 70px;
+    height: 70px;
+    
+}
+
+table {
+    text-align: center;
+    border: 1px white;
+}
+    
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+
+div {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form {
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+
+form div + div {
+    margin-top: 1em;
+}
+
